@@ -3,7 +3,8 @@
 
 This project involves automating data retrieval and visualization for cryptocurrency prices using the CoinMarketCap API.
 
-#Technologies Used
+# Technologies Used
+
 Programming Languages: Python
 Data Manipulation & Analysis: Pandas
 Data Visualization: Seaborn, Matplotlib
