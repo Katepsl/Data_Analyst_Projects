@@ -1,4 +1,6 @@
-# Data_Analyst_Projects
+# Python_Projects
+# Automating Crypto Website & Amazon Web Scraping
+
 # Automating Crypto Website Using Python
 
 This project involves automating data retrieval and visualization for cryptocurrency prices using the CoinMarketCap API.
@@ -34,3 +36,34 @@ Created point charts and line plots to represent the data.
 
 # Future Plans
 This project is ongoing, and I plan to add more features and enhancements in the future!
+
+# Amazon Web Scraper Project
+
+This project involves scraping data from Amazon's website and storing it in a CSV file using Pandas.
+
+# Technologies Used
+
+Programming Languages: Python
+
+Libraries: BeautifulSoup, requests, pandas, datetime
+
+# Project Details
+
+Web Scraping:
+Imported BeautifulSoup and requests to connect to Amazon and retrieve data as text.
+
+Data Collection:
+Imported datetime to include a timeline in the dataset.
+Scraped relevant data from Amazon.
+Wrote and appended data into a CSV file using pandas.
+Implemented a limited sleep time to avoid overwhelming the server and to continuously collect data.
+
+CSV Storage:
+Stored the scraped data in CSV format for future analysis and visualization.
+
+# Future Plans
+
+Currently, this project focuses solely on data scraping. Visualization and further analysis will be included in future updates.
+
+
+
