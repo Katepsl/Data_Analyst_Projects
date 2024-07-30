@@ -5,10 +5,10 @@ This project involves automating data retrieval and visualization for cryptocurr
 
 # Technologies Used
 
-Programming Languages: Python\n
-Data Manipulation & Analysis: Pandas\n
-Data Visualization: Seaborn, Matplotlib\n
-Additional Libraries: Time\n
+Programming Languages: Python \ 
+Data Manipulation & Analysis: Pandas \ 
+Data Visualization: Seaborn, Matplotlib \ 
+Additional Libraries: Time \ 
 API: CoinMarketCap
 
 # Project Details
